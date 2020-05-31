@@ -1,0 +1,23 @@
+{"collection": [
+    {
+    "type": "album",
+    "title": "hybride theory",
+    "artist": "linkin park",
+    "publication": 2001,
+    "rating": 4
+  },
+    {
+    "type": "album",
+    "title": "simulation",
+    "artist": "muse",
+    "publication": 2018,
+    "rating": 3
+  },
+    {
+    "type": "single",
+    "title": "blinded by the light",
+    "artist": "the weekend",
+    "publication": 2019,
+    "rating": 5
+  }
+]}
